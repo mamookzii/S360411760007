@@ -18,7 +18,7 @@ public class EX7 {
         System.out.println("Good bye. ");
         System.out.println("Good bye. ");
         System.out.println("Good bye. ");
-
+        System.out.println("Good bye. ");
 
 
 
