@@ -15,6 +15,9 @@ public class EX7 {
             }while (x != 100);
 
         System.out.println("Good bye. ");
+        System.out.println("Good bye. ");
+        System.out.println("Good bye. ");
+        System.out.println("Good bye. ");
 
 
 
