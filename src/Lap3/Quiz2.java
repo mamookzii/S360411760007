@@ -23,9 +23,10 @@ public class Quiz2 {
     switch (select) {
         case  1: total = price + (price*0.1); break;
         case  2: total = price + (price*0.15);break;
-
+        case  3: total = price + (price*0.17);break;
+        case  4: total = price + (price*0.20);break;
     }//switch
-
+        System.out.println("Total Price : " +total);
 
     }//main
 }//class
